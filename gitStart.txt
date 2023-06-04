@@ -1,0 +1,28 @@
+// it is for pushing code or reposite the code to use other partners also
+
+
+echo "# ShraddhaSanjay" >> README.md
+
+//first time for new folder these commands should be in command prompt
+1)git init
+2)git add .   //. means all folder
+3)git commit -m "first commit"  //some name for task
+4)git branch -M main  
+5)git remote add origin https://github.com/ShraddhaSanjay/ShraddhaSanjay.git
+6)git push -u origin main
+
+//second time to use same folder after any change use following commands
+
+git init
+git add .   //. means all folder
+git commit -m "first commit"  //some name for task
+git push
+
+
+
+git clone (url from url link from where u want to get the code from github)
+
+
+git checkout -b "thanesh(name of brance)"
+
+git branch
